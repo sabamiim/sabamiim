@@ -25,10 +25,6 @@
 
 ---
 <!-- Pixel Beating Heart -->
-<p align="center">
-  <img src="./heart.svg" width="120" alt="Beating Pixel Heart" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats:
